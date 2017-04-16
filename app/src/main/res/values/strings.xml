@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">          WordEdify</string>
+
+    <string name="file">MENU</string>
+
+    <string name="about">About</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+
+
+
+</resources>
